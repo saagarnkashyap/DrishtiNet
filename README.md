@@ -253,13 +253,13 @@ Planned improvements include:
 
 # Authors
 
-Saagar N Kashyap
+Saagar N Kashyap,
 B.Tech Computer Science Engineering
 
-Rishi Jha
+Rishi Jha,
 B.Tech Computer Science Engineering
 
-Vijageesh 
+Vijageesh,
 B.Tech Computer Science Engineering
 
 ---
